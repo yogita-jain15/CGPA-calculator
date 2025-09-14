@@ -1,0 +1,197 @@
+{
+  "sem1": [
+    {
+      "code": "MA201",
+      "name": "Mathematics-I",
+      "credits": 4.0
+    },
+    {
+      "code": "ME202",
+      "name": "EG",
+      "credits": 3.0
+    },
+    {
+      "code": "EE201",
+      "name": "Basic Electrical Engineering",
+      "credits": 4.0
+    },
+    {
+      "code": "EE202",
+      "name": "Basic Electrical Engineering Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS201",
+      "name": "Programming for Problem Solving",
+      "credits": 3.0
+    },
+    {
+      "code": "CS202",
+      "name": "Programming Laboratory",
+      "credits": 1.5
+    }
+  ],
+  "sem2": [
+    {
+      "code": "MA202",
+      "name": "Mathematics-II",
+      "credits": 4.0
+    },
+    {
+      "code": "PH201",
+      "name": "Physics",
+      "credits": 4.0
+    },
+    {
+      "code": "PH202",
+      "name": "Physics Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CY201",
+      "name": "Chemistry",
+      "credits": 4.0
+    },
+    {
+      "code": "CY202",
+      "name": "Chemistry Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "ME201",
+      "name": "Workshop and Manufacturing Practice",
+      "credits": 1.5
+    },
+    {
+      "code": "HS201",
+      "name": "English for Communication",
+      "credits": 3.0
+    }
+  ],
+  "sem3": [
+    {
+      "code": "SH201",
+      "name": "Biology for Engineers",
+      "credits": 2.0
+    },
+    {
+      "code": "EC235",
+      "name": "EDDS",
+      "credits": 3.0
+    },
+    {
+      "code": "CS203",
+      "name": "COA",
+      "credits": 4.0
+    },
+    {
+      "code": "CS204",
+      "name": "Data Structures",
+      "credits": 3.0
+    },
+    {
+      "code": "CS205",
+      "name": "OOPL",
+      "credits": 3.0
+    },
+    {
+      "code": "EC236",
+      "name": "EDDS Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS206",
+      "name": "Data Structures Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS207",
+      "name": "OOPL Laboratory",
+      "credits": 1.5
+    }
+  ],
+  "sem4": [
+    {
+      "code": "MA206",
+      "name": "Mathematics for Computing",
+      "credits": 4.0
+    },
+    {
+      "code": "CS208",
+      "name": "Operating Systems",
+      "credits": 3.0
+    },
+    {
+      "code": "CS209",
+      "name": "DAA",
+      "credits": 3.0
+    },
+    {
+      "code": "CS210",
+      "name": "DBMS",
+      "credits": 3.0
+    },
+    {
+      "code": "CS211",
+      "name": "Software Engineering",
+      "credits": 4.0
+    },
+    {
+      "code": "CS212",
+      "name": "Operating Systems Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS213",
+      "name": "DAA Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS214",
+      "name": "DBMS Laboratory",
+      "credits": 1.5
+    }
+  ],
+  "sem5": [
+    {
+      "code": "HS202",
+      "name": "IEM",
+      "credits": 3.0
+    },
+    {
+      "code": "CS215",
+      "name": "Platform Technologies",
+      "credits": 3.0
+    },
+    {
+      "code": "CS216",
+      "name": "Computer Networks",
+      "credits": 3.0
+    },
+    {
+      "code": "CS217",
+      "name": "ATCD",
+      "credits": 4.0
+    },
+    {
+      "code": "CS218",
+      "name": "Platform Technologies Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CS219",
+      "name": "Computer Networks Laboratory",
+      "credits": 1.5
+    },
+    {
+      "code": "CSY06/CSY03",
+      "name": "MAD/Python",
+      "credits": 3.0
+    },
+    {
+      "code": "NILL",
+      "name": "Open Elective",
+      "credits": 3.0
+    }
+  ]
+}
